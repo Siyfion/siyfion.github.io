@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Starving Dragon
-tagline:             'TEST'
-description:         'The ramblings, rantings and ravings of a caffeine-depraved programmer.'
+tagline:             'The ravings of a caffeine-depraved programmer'
+description:         ''
 url:                 http://starvingdragon.com
 baseurl:             ''
 paginate:            5
