@@ -41,12 +41,13 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 700;
   color: #313131;
   letter-spacing: -.025rem;
 }
@@ -560,4 +561,22 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+/*
+ * About Me Page Tweaks
+ */
+
+.social-links {
+  text-align: center;
+}
+
+.social-link {
+  transition: color 0.5s ease;
+  color: #515151;
+}
+
+.social-link:hover {
+  color: #55acee;
 }
