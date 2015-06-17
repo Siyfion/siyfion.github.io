@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Starving Dragon
-tagline:             'The ravings of a caffeine-depraved programmer'
+tagline:             'The ravings of a caffeine-depraved programmer & gamer'
 description:         ''
 url:                 http://starvingdragon.com
 baseurl:             ''
@@ -15,8 +15,8 @@ paginate:            5
 # About/contact
 author:
   name:              Simon Mansfield
-  url:               https://twitter.com/siyfion
-  email:             siyfion@gmail.com
+  url:               https://twitter.com/starvingdragon
+  email:             the@starvingdragon.com
 
 # Custom vars
 version:             1.0.0
