@@ -36,6 +36,6 @@ To build a basic quad (not even an FPV) from scratch you'll need at the very lea
 
 So for my first attempt I thought I'd play it safe and go for a kit; essentially just a collection of off-the-shelf parts that someone else has put together, tried & tested and ensured that they all work well together. I decided to go for a [Hurricane Mark 1](http://www.radioc.co.uk/hurricane-racing-drone-kit-uk-p/5552.htm) from [RadioC](http://www.radioc.co.uk/) as it was both affordable, repairable, had room to add FPV equipment and was the right size for ***racing***.
 
-![Hurricane Mark 1]({{ site.baseurl }}/assets/images/Hurricane_Mk1.jpg)
+![Hurricane Mark 1]({{ site.baseurl }}/assets/images/hurricane_mk1.jpg)
 
 Stay tuned to find out how I got on!
